@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Day 2: Write a list post"
+date:   2011-12-30
+permalink: /day-2-write-a-list-post/
+categories: ['31 days to build a better blog']
+---
+
+*This post is part of a series documenting my efforts to work through the book [31 Days to Build a Better Blog](http://www.problogger.net/31dbbb-workbook/) for four of my sites.*
+
+<img src="/images/list.jpg" class="post-thumb alignleft">
+
+###Writing list posts
+
+Today’s exercise is “write a list post” and it’s one of the steps I remember from starting this book last year. In fact, back then I actually started a list post for Chiagu that was meant to work for pre-Christmas 2010, but that I only ever finished for pre-Christmas 2011! The post is this one: [Free Stuffed Animal Knitting Patterns](http://chiagu.com/blogs/chiagu-blog/11235589-free-stuffed-animal-knitting-patterns) and it’s now the **7th most popular page on my site**. Wowzers!
+
+Unlike yesterday’s step, I have no qualms about this one. I love it when other sites write list posts and I do them myself pretty often! On my [cooking blog](http://achefsdaughter.com/), I write list posts for any cooking magazine issue that has a lot of [recipes](http://achefsdaughter.com/2011/11/bon-appetit-december-2011-must-try-recipes/) I want to try. I also write list posts for [cool cooking-related things](http://achefsdaughter.com/2011/04/ikat-dishtowels-morse-code-cutting-board-and-more/) I’ve come across that I might buy. Those posts are some of the most popular (and have led to the most affiliate commissions).
+
+On the brand-new WordPress Hound, I’ve already written three list posts, each of which gathers social media icons and categorizes them together. I wrote those lists posts literally because I wanted them as a reference for myself! Most other posts on icon sets just dump everything together, so when I knew I wanted, say, a round set, I had to dig through a mish-mash to find them. Since I had started saving them in categories for my own use, I figured others would want them categorized too.
+
+For the other two sites, Chiagu and Inside the Alley, I don’t tend to write list posts as much. I have ideas for both of them and will start writing list posts for them, but don’t intend to post them for a little while. For Chiagu, I’m working on a post of “most useful knitting tools” that will be an ode to my favorite knitting gadgets. For ITA, I want to write a post with a list of startups that have good social media proof regarding working there, but I’m nowhere near having enough data to write it yet.
+
+###This step’s list posts
+
+The book says that the list post doesn’t have to go up today, and I probably won’t put any of mine up today myself. But this list will become links once the posts go live:
+
+* Chiagu: The Most Useful Knitting Tools
+* A Chef’s Daughter: Basic Cookbooks Every Home Cook Should Own
+* Inside the Alley: Startups with Social Media Proof about Working there (title needs to be fixed!)
+* WordPress Hound: 5 Plugins I use on Every WordPress Site
+
+I think each of those posts has real value to my readers and might even go viral . . . we’ll see!
+
+###Step 2 Summary
+
+Todays’ exercise was quick and easy for me, probably because I’ve been blogging for so long (it’s been 10 years, have I ever mentioned that before? Crazy!) and didn’t actually finish writing any of these posts today. I can usually put together a list post in about an hour, depending on the number of items included in it and the subject matter. So by the time I finish writing all these I will probably have used about 5 hours.
+
+###Further Reading
+
+I realize this post doesn’t really give you much info on actually writing a list post, but there’s tons of information in 31DBBB to help you actually write your own post. There are also two free resources offered by ProBlogger: [10 Steps to the Perfect List Post](http://www.problogger.net/archives/2008/08/17/10-steps-to-the-perfect-list-post/) and [301 List Posts Submitted by ProBlogger Readers](http://www.problogger.net/lists-group-writing-project-reader-submissions/).
+
+Oh and today’s tag is **#31DbbbDay2** if you want to search for others who’ve done a more thorough job than me at explainging this step. I don’t blame you if you do!
+
+*photo credit to [giveawayboy](https://www.flickr.com/photos/giveawayboy/)

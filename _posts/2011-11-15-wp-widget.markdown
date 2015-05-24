@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "WP Widget Customization"
+date:   2011-11-15
+permalink: /wp-widget-customization/
+categories: ['Finished work']
+---
+
+My client, growthmountain.com, wanted to change their homepage from the default look that came with their theme. Instead of having blog posts in the main content area, they wanted to have that whole section of the landing page be populated with WordPress widgets that they were already using in their sidebar.
+
+
+This kind of request is pretty common because it enables an end-user to customize the look of their site without doing any coding. Most WP users know and understand the widgets section intuitively (because it’s so well-designed!) so being able to use it to populate the homepage is a no-brainer.
+
+To make this work, I created a new template in their theme that kept the slider, then instead of loading the blog posts into the main content area, I called the widget function. I created a new widget area specifically for the homepage, so that the end-user can make the content of the sidebar widgets different from the landing page widgets if they want to.
+
+My work changed the landing page from this:
+
+![old](/images/growth2.png)
+
+To this:
+
+![old](/images/growth.png)
+
+Now the client can list and reorder products on his landing page with just a click-and-drag interface. Pretty cool!

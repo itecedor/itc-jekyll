@@ -1,0 +1,125 @@
+---
+layout: post
+title:  "Day 1: The Elevator Pitch"
+date:   2011-12-29
+permalink: /day-1-the-elevator-pitch/
+categories: ['31 days to build a better blog']
+---
+
+*This post is part of a series documenting my efforts to work through the book [31 Days to Build a Better Blog](http://www.problogger.net/31dbbb-workbook/) for four of my sites.*
+
+<img src="/images/pitching.jpg" class="post-thumb alignleft">
+
+###The first roadblock
+
+As soon as I hit publish on my last post, I dove right into 31DBBB and started reading. When I saw that the first task was “develop an elevator pitch” I literally groaned out loud and almost quit on the spot (I told you I suck at setting goals and then following through on them!). I remember this task from reading the book last year. And I hate it.
+
+I think my biggest problem with the concept of an elevator pitch is that it seems so limiting. I know this is ridiculous because limiting the scope of your project/business/blog is totally the right business decision, so I quit my whining and kept reading.
+
+###Coming around
+
+As I read through the tips on where to use the elevator pitch, I all of a sudden realized that I already have pitches for almost all my sites! Pretty much any time I set up a new WordPress site I spend some time coming up with a perfect Tagline, and that tagline is exactly like an elevator pitch. D’oh!
+
+So I went and retrieved each site’s tagline to see what I had to start with:
+
+**WordPress Hound**: “Sniffing out the best themes, plugins, and customizations for your WordPress site”
+
+**Chiagu**: “Knitting patterns for your favorite hand-dyed yarns from Chiagu.com! Your knitting pattern resource.”
+
+**A Chef’s Daughter**: “Cooking blog from Ivete, a chef’s daughter” (this one really sucks!)
+
+**Inside the Alley**: “discover what it’s like to work at a NYC startup before you even apply”
+
+Hey, most of those aren’t half bad! Maybe this task won’t be so hard after all.
+
+###Turning a Tagline into an Elevator Pitch
+
+Each of the above taglines has good and bad things, but they’re all generally a bit too short to be real “elevator pitches” according to this assignment. And I’m sure I can improve on them as “short pitches” too, so I got to work.
+
+####WordPress Hound
+
+Because this is a brand-new site and I had just finished coming up with the tagline, this is a unique situation. The blog doesn’t have much content yet (there are like 5 posts so far!) and while I know that I’m targeting the casual WordPress audience (as opposed to developers), the niche that this site will fill in the WP blogging world isn’t quite decided yet. Here’s where my resistance to limiting in an elevator pitch comes in!
+
+What I had to start with was my tagline, which I quite like:
+
+“Sniffing out the best themes, plugins, and customizations for your WordPress site”
+
+I think this tagline is pretty perfect if I do say so myself, and can serve as my “short pitch” without any changes. But I have room to add to it in the “longer pitch,” and what’s missing is a clear description of who “your” is. I already know that my site targets everyday WordPress users, but how should I address them in my elevator pitch?
+
+I took a cue from the example in the book:
+
+“Home Ec 101 is a site dedicated to teaching a broad range of life skills to adults in a conversational and entertaining manner.”
+
+And came up with:
+
+“WordPress Hound sniffs out the best themes, plugins, and customizations for your WordPress site. We take the time to research and test so you don’t have to.”
+
+I’m pretty happy with it and have added it to the (extremely bare-bones) About page on the site. I was about to get distracted into finishing that page but forced myself back to the task at hand, a pitch for the next property:
+
+####Chiagu
+
+The tagline started out as:
+
+“Knitting patterns for your favorite hand-dyed yarns from Chiagu.com! Your knitting pattern resource.”
+
+I think the first sentence is good and the second one dumb and redundant. I’m not sure what I was thinking when I initially wrote that!
+
+Chiagu has actually changed a bit in the last year and I’ve been focusing on selling kits as well as patterns, so I want to add that to the pitch somehow. My key competency is in designing knitting patterns that use hand-painted yarns well, which is something that not all designers can do, so having that prominent in the statement is definitely important.
+
+After trying a few variations I settled on:
+
+“Chiagu.com brings you knitting patterns designed for your favorite hand-dyed yarns. Show off the gorgeous colors of Koigu, Madelinetosh, and Noro with my patterns and kits.”
+
+I also adjusted the tagline to be:
+
+“Knitting patterns designed for your favorite hand-dyed yarns”
+
+Much better!
+
+####A Chef’s Daughter
+
+This one needed the most work, which makes sense because I wrote it in 2008 before I really knew anything, and haven’t changed it since! In 2012 I want to revive this blog so figuring out what the blog is really about is particularly important for this property.
+
+The tagline I started with, which is pretty much useless, was:
+
+“Cooking blog from Ivete, a chef’s daughter”
+
+As I thought about what the blog was really about, I settled on some key points:
+
+My dad taught me a lot about what to do in the kitchen
+But my cooking is more “modern” than his in many ways
+Some of my most popular posts reference how we ate growing up
+The top posts are reviews of products
+With this in mind, I know that I need to shift the blog focus from “what I cooked today” to “why I cooked this today” — and add a bunch more personalization in the form of stories and reviews.
+
+The tagline I ended up with is:
+
+“Combining my chef dad’s lessons with fresh, seasonal ingredients in a tiny NYC kitchen”
+
+And the full elevator pitch is:
+
+“My cooking blog is full of recipes and reviews that combine my chef dad’s lessons with fresh, seasonal ingredients. In my tiny NYC kitchen, every tool and gadget counts, and flavor is king above everything else.”
+
+I think I’m getting better at this as I go down the list! May have to back up and review the first two . . . but before that, I have one more:
+
+####Inside the Alley
+
+I already love the tagline I’d come up with, and the concept of this site is already tight and clear, so this one was probably the easiest:
+
+“discover what it’s like to work at a NYC startup before you even apply”
+
+I actually think that tagline in itself is enough to qualify as an elevator pitch, but I made a longer version of it anyway:
+
+“Inside the Alley helps you discover what it’s like to work at a NYC startup before you even apply. On our site you’ll find honest reviews from current and past employees of NYC startups.”
+
+Done! This one was definitely the easiest and fastest to write!
+
+###Step 1 Summary
+
+From start to finish, today’s exercise took about four hours (although I was also knitting, trading, and eating during parts of this work!). I think I got some great work out of today and it’s made me feel very energized about the 31DBBB project!
+
+###Further Reading
+
+If this post has made you want to work on elevator pitches for your own site, you might want to check out ProBloggers post that includes [over a thousand blog elevator pitches](http://www.problogger.net/archives/2008/10/28/reflections-on-48-hours-of-inviting-readers-to-comment-spam-my-blog/).
+
+And if you want to read about other’s journey through this book, day 1’s tag is **#31DbbbDay1**. Google or Twitter search that and you’ll find many posts like mine, detailing the process of coming up with an elevator pitch for your blog.
