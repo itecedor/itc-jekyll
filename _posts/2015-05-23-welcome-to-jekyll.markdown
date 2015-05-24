@@ -10,20 +10,16 @@ If you, like me, use a podcast app other than iTunes or Stitcher, it’s really 
 
 ![podcast screenshot](/images/podcast_screenshot.png)
 
+Turns out these podcasts are all hosted by a service called [libsyn.com](http://libsyn.com/), and after a bit of sleuthing I found the RSS feed url that is set as the default url in their system.
 
+Here’s how to find it:
 
-Jekyll also offers powerful support for code snippets:
+Mousing over the “Play in new window” link to see what it’s linking to. For the podcast above, it links to: http://traffic.libsyn.com/mebeingcrafty/epi016_Lee_Monroe.mp3
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+The “mebeingcrafty” part of this url is the name of this podcast. Take that name and put it in this format:
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+http://mebeingcrafty.libsyn.com/rss
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+And you get an RSS feed of the podcast!
+
+This should work for most, if not all, podcasts hosted on libyn.com
