@@ -3,7 +3,7 @@ layout: post
 title:  "How to find a libsyn.com podcast rss feed url"
 date:   2014-12-25 21:50:41
 permalink: /how-to-find-a-libsyn-com-podcast-rss-feed-url/
-categories: "helful randoms"
+categories: ['helful randoms']
 ---
 
 If you, like me, use a podcast app other than iTunes or Stitcher, it’s really annoying trying to find the RSS feed url to subscribe to a new podcast that doesn’t explicitly tell you what the url is. Lately I’ve seen a lot of podcasts just listed in someone’s blog like this:
