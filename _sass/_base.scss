@@ -77,10 +77,13 @@ li {
     > ol {
          margin-bottom: 0;
     }
+}
+
+ul li {
     list-style: none;
 }
 
-li:before {
+ul li:before {
   font-family: 'WebSymbolsRegular';
   display: inline-block;
   font-size: .857em;
@@ -248,4 +251,9 @@ h1.hero {
 #headshot {
     float: left;
     margin: 0 20px 0 0;
+}
+
+.red {
+    color: #ff0000;
+    font-weight: bold;
 }
