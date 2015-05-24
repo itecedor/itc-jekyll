@@ -1,0 +1,10 @@
+# Site settings
+title: Ivete Tecedor
+email: your-email@domain.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: ivetetecedor
+github_username:  itecedor
+
+# Build settings
+markdown: kramdown
