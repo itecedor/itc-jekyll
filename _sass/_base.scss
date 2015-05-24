@@ -219,8 +219,26 @@ pre {
     }
 }
 
+/**
+ * Left align
+ */
+.alignleft {
+    float: left;   
+}
+
 h1.hero {
   font-family: 'Nixie One', serif;
+}
+
+#home-thumbs {
+    text-align:center;
+    width: 675px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#home-thumbs img {
+    margin: 20px;
 }
 
 #headshot {
