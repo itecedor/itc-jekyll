@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "Why I quit Fiverr after less than 72 hours"
+date:   2011-10-04
+permalink: /why-i-quit-fiverr-after-less-than-72-hours/
+categories: ['Ranting']
+---
+
+<img src="/images/fiversucks.jpg" class="post-thumb alignleft">So on Saturday, I was reading [Niche Pursuits](http://www.nichepursuits.com/) and getting ideas for how to build up a niche URL I own, when I decided to look into the possibility of having content written for me. One of the sites I found for this was fiverr.com, which I signed up for immediately after browsing around for a bit.
+
+I liked the concept of the site and decided to test it out by listing a gig of my own before actually hiring anyone. I wrote a gig offering my services in setting up my favorite WordPress shopping cart plugin, the WordPress eStore Plugin.
+
+This morning I received two automated emails from Fiverr:
+
+![first](/images/fiver1.png)
+
+And a few minutes later:
+
+![second](/images/fiver2.png)
+
+I certainly had NOT “provided or offered a direct payment to another user” or “posted your PayPal email address,” so I was pretty confused. Since both of these emails came from noreply@, I knew that responding to them would get me nowhere, so I clicked through to their site to try to get more information.
+
+I found their Customers Support link at the bottom of the page and sent them the following message:
+
+“Hi, I just received a warning regarding “provided or offered a direct payment to another use” but I have no idea what you are talking about. Can you please tell me what exactly I did that caused this warning?”
+
+And here’s how the customer service ticket played out:
+
+First CS response email:
+
+![third](/images/fiver3.png)
+
+So basically I asked “what does XYZ mean” and the response was “it means XYZ”. Ugh.
+
+Since he didn’t help at all, I decided to try to figure it out myself. Because the only interaction I’d had with the site was the one gig I listed, I figured something I wrote in the gig must have been the problem. So I log into the site and find my gig and click it, only to get this:
+
+![fourth](/images/fiver4.png)
+
+Nice. Total user experience fail.
+
+So since I could get nowhere on my own, I replied back to the CS guy:
+
+![5](/images/fiver5.png)
+
+Then the second useless reply came back from CS:
+
+![6](/images/fiver6.png)
+
+Frustrated, I (idiotically) tried again:
+
+![7](/images/fiver7.png)
+
+For some reason I was still surprised that the next CS email was completely useless too:
+
+![8](/images/fiver8.png)
+
+Not only did he completely ignore my question, he told me to submit a new gig without being able to see what was wrong with my original gig. That’s real helpful. It’ll be real easy to submit a new gig without making the same mistake again now.
+
+At this point I was so annoyed that I sent back this bitchy reply:
+
+![9](/images/fiver9.png)
+
+I then started typing out this post, and went back to the site to try to cancel my account.
+
+**Guess what?** There’s no way to cancel an account on Fiverr! Just adds insult to injury.
+
+I settled for changing my account email address to cancelled@cancelled.com.
+
+When I returned to my email a bit later, I was surprised to see another reply from the CS agent:
+
+![10](/images/fiver10.png)
