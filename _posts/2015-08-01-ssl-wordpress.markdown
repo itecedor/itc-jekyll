@@ -38,7 +38,7 @@ It's **very important** that these lines are before the WordPress section that s
 
 # That's it!
 
-Well, unless you're terminating SSL at the load balancer, like I am with Gotham Quilts with an ELB and AWS. In that case, you also need Step 4:
+Well, unless you're terminating SSL at the load balancer, like I am with Gotham Quilts with an AWS ELB. In that case, you also need Step 4:
 
 #### Step 4: Forward headers
 
