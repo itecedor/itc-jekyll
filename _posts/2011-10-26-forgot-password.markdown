@@ -6,7 +6,7 @@ permalink: /lovely-example-forgot-password-screen/
 categories: ['Web design']
 ---
 
-<img src="/images/37signals.png" class="post-thumb alignleft">
+<img src="{{ site.baseurl }}/images/37signals.png" class="post-thumb alignleft">
 
 Leave it to 37signals to have a forgot password page that impresses so much it made me want to document it for future inspiration.
 

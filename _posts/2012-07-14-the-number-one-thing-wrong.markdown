@@ -6,7 +6,7 @@ permalink: /the-1-thing-people-do-wrong-when-creating-new-websites/
 categories: ['Web design']
 ---
 
-<img src="/images/do-not-enter-300x199.jpeg" class="post-thumb alignleft">After having essentially the same conversation with clients (and friends, and my dad) over and over again, I’ve come to the conclusion that **almost no one considers the most important element** when they set out to create a new website (or mailing list for that matter).
+<img src="{{ site.baseurl }}/images/do-not-enter-300x199.jpeg" class="post-thumb alignleft">After having essentially the same conversation with clients (and friends, and my dad) over and over again, I’ve come to the conclusion that **almost no one considers the most important element** when they set out to create a new website (or mailing list for that matter).
 
 ###So what’s the #1 most important thing about your new website?
 

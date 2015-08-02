@@ -13,17 +13,17 @@ Assuming you are using Feedburner, here’s how easy it is to pull a list of you
 
 1. Go to the Publicize section of your Feedburner account and then to the BuzzBoost section:
 
-![step 1](/images/step1.png)
+![step 1]({{ site.baseurl }}/images/step1.png)
 
 Scroll down to the “Boost Your Cross-Promotional Potential” section and click on “BuzzBoost”:
 
-![step 2](/images/settings.png)
+![step 2]({{ site.baseurl }}/images/settings.png)
 
 Choose the options you’d like from the settings menu and click Save.
 
 This will bring up the BuzzBoost code you’ll be installing on the other site:
 
-![step 3](/images/code.png)
+![step 3]({{ site.baseurl }}/images/code.png)
 
 Then just copy the code from the top section and dump it wherever you want to show the posts as previewed in the bottom section.
 

@@ -6,7 +6,7 @@ permalink: /upgraded-wordpress-and-now-wp-admin-is-a-blank-white-screen-heres-th
 categories: ['WordPress development']
 ---
 
-<img src="/images/white-screen.png" class="post-thumb alignleft">So just now, I upgraded the last of my properties to the latest WordPress release, 3.3.1. I usually wait to do the most important one until after I’ve done all the others, to make sure that the one that brings in the dough doesn’t get killed by an errant upgrade. Usually I have nothing to worry about, as WordPress does such a fantastic job of upgrading smoothly with just one click, but every so often, well . . .
+<img src="{{ site.baseurl }}/images/white-screen.png" class="post-thumb alignleft">So just now, I upgraded the last of my properties to the latest WordPress release, 3.3.1. I usually wait to do the most important one until after I’ve done all the others, to make sure that the one that brings in the dough doesn’t get killed by an errant upgrade. Usually I have nothing to worry about, as WordPress does such a fantastic job of upgrading smoothly with just one click, but every so often, well . . .
 
 ###Every so often, things break.
 

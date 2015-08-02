@@ -22,13 +22,13 @@ Save that file in the bin directory where your JMeter installation lives. For th
 
 Now go into JMeter and find the HTTP request step that you want to modify to use the values in this CSV file. Right click on it and go to Add > Config Element > CSV Data Set Config. This adds the CSV Data Set Config as a child of the HTTP request.
 
-![first](/images/csv1.png)
+![first]({{ site.baseurl }}/images/csv1.png)
 
 In the tree above, you can see that I’m using the CSV data to modify the “Log in” HTTP Request.
 
 Now click on the CSV Data Set Config step to modify it. Its screen looks like this:
 
-![second](/images/csv2.png)
+![second]({{ site.baseurl }}/images/csv2.png)
 
 You’ll need to fill in at least 3 values on this screen:
 
@@ -42,7 +42,7 @@ After the CSV step is filled out correctly, go back to your HTTP request and cha
 
 Here’s what that looks like in my test:
 
-![third](/images/csv3.png)
+![third]({{ site.baseurl }}/images/csv3.png)
 
 Because I had defined my variables as “login” and “password” in the previous step, in this step I need to use those variables as the value of the parameters that are being sent with the request. To do that I replaced the email address with ${login} and the password with ${password}.
 

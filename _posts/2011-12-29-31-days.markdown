@@ -6,7 +6,7 @@ permalink: /starting-a-huge-challenge-working-through-31-days-to-build-a-better-
 categories: ['31 days to build a better blog']
 ---
 
-<img src="/images/problogger-ebooks.jpg" class="post-thumb alignleft">When ProBlogger came out with the first version of his [31 Days to Build a Better Blog eBook](http://www.problogger.net/31dbbb-workbook/), I snapped it right up . . . and then promptly stopped reading it after a few pages, because my insane job at a startup allowed me almost no time for personal projects.
+<img src="{{ site.baseurl }}/images/problogger-ebooks.jpg" class="post-thumb alignleft">When ProBlogger came out with the first version of his [31 Days to Build a Better Blog eBook](http://www.problogger.net/31dbbb-workbook/), I snapped it right up . . . and then promptly stopped reading it after a few pages, because my insane job at a startup allowed me almost no time for personal projects.
 
 Now that I’m freelancing full time (need a WordPress expert for a project? Contact me!), I’ve set myself the goal of working through the 31DBBB book from start to finish. But to kick it up a notch, I’m working through it for **four digital properties at the same time**.
 

@@ -6,7 +6,7 @@ permalink: /sanebox-a-site-full-of-personality/
 categories: ['Design inspiration']
 ---
 
-<img src="/images/sanebox-300x188.png" class="post-thumb alignleft">Just came across [SaneBox](https://www.sanebox.com/) today after reading about it on a friend’s blog, and I signed right up. A service that will make my disaster of an inbox sane? Yes please!
+<img src="{{ site.baseurl }}/images/sanebox-300x188.png" class="post-thumb alignleft">Just came across [SaneBox](https://www.sanebox.com/) today after reading about it on a friend’s blog, and I signed right up. A service that will make my disaster of an inbox sane? Yes please!
 
 I can’t speak to how well it works as it’s still “analyzing” so I haven’t actually used the thing yet, but that’s not what I want to talk about anyway. This post is about the design of the site and how it immediately won me over with its playful design.
 
@@ -14,7 +14,7 @@ On the “about” section of the site it says that none of the guys behind the 
 
 Take this “how it works” graphic for example:
 
-![sanebox](/images/sanebox2.png)
+![sanebox]({{ site.baseurl }}/images/sanebox2.png)
 
 The concept it’s illustrating is pretty simple, but there’s no obvious way to visualize it. They could have made a simple graphic with just three arrows in it, but instead they went for this brilliant Rube Goldberg-type image. In one glimpse it tells you everything you need to know: how simple it is for you and how complicated what they’re doing behind the scenes is. And it conveys all that without taking itself too seriously. That’s really hard to do!
 

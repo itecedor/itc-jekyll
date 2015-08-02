@@ -6,7 +6,7 @@ permalink: /awesome-landingsqueeze-page-analysis/
 categories: ['Design inspiration']
 ---
 
-<img src="/images/createworth.png" class="post-thumb alignleft">Stumbled across [Create Worth](http://dailyworth.com/createworth) and was literally WOWED by this landing/squeeze page. It’s striking, informative, has a perfect call-to-action, and it looks beautiful to boot.
+<img src="{{ site.baseurl }}/images/createworth.png" class="post-thumb alignleft">Stumbled across [Create Worth](http://dailyworth.com/createworth) and was literally WOWED by this landing/squeeze page. It’s striking, informative, has a perfect call-to-action, and it looks beautiful to boot.
 
 One of my favorite parts of it is the “No thanks! Go to Homepage” link — too many signup forms like this don’t include the option to get out of the page but still see the site content and that drives me nuts!
 

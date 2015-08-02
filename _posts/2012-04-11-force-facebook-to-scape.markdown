@@ -6,7 +6,7 @@ permalink: /how-to-force-facebook-to-re-scrape-your-url/
 categories: ['Facebook marketing']
 ---
 
-<img src="/images/empty-300x171.png" class="post-thumb alignleft">Have you ever gone to post an update on Facebook and linked to a page on your site, only to find that Facebook wasn’t pulling in the latest version of that URL? It’s really frustrating to have content you want to promote and see an empty link in the wall update!
+<img src="{{ site.baseurl }}/images/empty-300x171.png" class="post-thumb alignleft">Have you ever gone to post an update on Facebook and linked to a page on your site, only to find that Facebook wasn’t pulling in the latest version of that URL? It’s really frustrating to have content you want to promote and see an empty link in the wall update!
 
 The reason this happens is because FB caches **everything**, or maybe more accurately, SUPER CACHES EVERYTHING. It’s impressive from a technical standpoint and makes sense for performance and all that, but it definitely sucks if you’re a user trying to market something you recently changed.
 

@@ -8,7 +8,7 @@ categories: ['31 days to build a better blog']
 
 *This post is part of a series documenting my efforts to work through the book [31 Days to Build a Better Blog](http://www.problogger.net/31dbbb-workbook/) for four of my sites.*
 
-<img src="/images/list.jpg" class="post-thumb alignleft">
+<img src="{{ site.baseurl }}/images/list.jpg" class="post-thumb alignleft">
 
 ###Writing list posts
 

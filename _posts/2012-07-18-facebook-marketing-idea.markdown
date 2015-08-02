@@ -6,13 +6,13 @@ permalink: /fantastic-facebook-marketing-idea/
 categories: ['Facebook integration']
 ---
 
-<img src="/images/promo-code-prompt-300x215.png" class="post-thumb alignleft">You know when you get to the section of a checkout form where you can enter a promo code, but you don’t have one?
+<img src="{{ site.baseurl }}/images/promo-code-prompt-300x215.png" class="post-thumb alignleft">You know when you get to the section of a checkout form where you can enter a promo code, but you don’t have one?
 
 The next thing you do if you’re me is open a new browser tab and google “website URL promo code” to see if you can grab one and save yourself some cash.
 
 Well, just now, I was signing up for liveplan.com to try out their business plan software and did the above. The result on Google was pretty interesting, and not at all what I expected:
 
-![Google Results](/images/google-results.png)
+![Google Results]({{ site.baseurl }}/images/google-results.png)
 
 See that first, paid, result? That’s from the company itself! And the second non-paid result? Also from them!
 
@@ -20,7 +20,7 @@ Of course that’s unusual (usually when you google for codes, you find them on 
 
 Check out where it takes you:
 
-![Promo Code Page](/images/liveplan-promo-code-page.png)
+![Promo Code Page]({{ site.baseurl }}/images/liveplan-promo-code-page.png)
 
 A page telling you that if you like them on Facebook, you’ll get 50% off your purchase.
 

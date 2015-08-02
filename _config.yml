@@ -1,6 +1,6 @@
 # Site settings
 title: Ivete Tecedor
-baseurl: "itc-jekyll" # the subpath of your site, e.g. /blog/
+baseurl: /itc-jekyll # the subpath of your site, e.g. /blog/
 twitter_username: ivetetecedor
 github_username:  itecedor
 
