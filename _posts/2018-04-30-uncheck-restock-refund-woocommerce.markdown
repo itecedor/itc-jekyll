@@ -27,8 +27,6 @@ If you too want your restock refunded items checkbox disabled, add this to your 
 
 I'm also planning to implement a setting flag for this to core and contribute a patch back up to them, but who knows if they'll approve it?
 
---
+**Update March 2019**: [They implemented my suggestion and PR!](https://github.com/woocommerce/woocommerce/pull/21314)
 
-* Update March 2019: [They implemented my suggestion and PR!](https://github.com/woocommerce/woocommerce/pull/21314)
-
-* Update April 2019: When looking to update this blog post, I discovered that the merged PR has subsequently been broken... the newly-created config is no longer in the repo, but the code that USES that config is. D'oh! Looking through the commit history, the commit isn't there at all in the config file, so it looks like a potential force push problem... [I've opened a new issue](https://github.com/woocommerce/woocommerce/issues/23419) and am waiting to hear if they want me to open a new PR or what.
+**Update April 2019**: When looking to update this blog post, I discovered that the merged PR has subsequently been broken... the newly-created config is no longer in the repo, but the code that USES that config is. D'oh! Looking through the commit history, the commit isn't there at all in the config file, so it looks like a potential force push problem... [I've opened a new issue](https://github.com/woocommerce/woocommerce/issues/23419) and am waiting to hear if they want me to open a new PR or what.
