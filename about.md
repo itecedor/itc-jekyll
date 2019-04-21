@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/images/me.jpg" id="headshot">I’m Ivete Tecedor and I make things. I'm co-owner of co-owner of [Gotham Quilts](http://gothamquilts.com) and a freelance backend web developer with a passion for performance improvement.
+<img src="{{ site.baseurl }}/images/me.jpg" id="headshot">I’m Ivete Tecedor and I make things. I'm co-owner of [Gotham Quilts](http://gothamquilts.com) and an experienced backend web developer with a passion for performance improvement.
 
 I live in NYC with my dachshund, Arnold.
 
