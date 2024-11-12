@@ -8,6 +8,7 @@ permalink: /about/
 
 I live in NYC with my dog and cat.
 
+
 * [Github](http://github.com/itecedor/)
 * [Instagram](http://instagram.com/ivetetecedor/)
 * [LinkedIn](http://www.linkedin.com/in/itecedor/)
