@@ -12,4 +12,4 @@ I live in NYC with my dog and cat.
 * [Github](http://github.com/itecedor/)
 * [Instagram](http://instagram.com/ivetetecedor/)
 * [LinkedIn](http://www.linkedin.com/in/itecedor/)
-* [Twitter](http://twitter.com/ivetetecedor)
+* [Bluesky](https://bsky.app/profile/ivetetecedor.bsky.social)
