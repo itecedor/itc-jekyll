@@ -1,8 +1,31 @@
-# Site settings
 title: Ivete Tecedor
 baseurl: ""
-twitter_username: ivetetecedor
+url: "https://ivetetecedor.com" 
+twitter_username: 
 github_username:  itecedor
 
 # Build settings
-markdown: kramdown
+plugins:
+  - jekyll-feed
+
+collections:
+  projects:
+    output: true
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
